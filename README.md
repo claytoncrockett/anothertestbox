@@ -1,2 +1,0 @@
-# anothertestbox
-Created with CodeSandbox
